@@ -7,6 +7,9 @@
 
 [file_servers]
 192.168.110.133
+<<<<<<< HEAD
 
 [workstations]
 192.168.110.143
+=======
+>>>>>>> origin

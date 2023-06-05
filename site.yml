@@ -19,6 +19,7 @@
     when: ansible_distribution == "Ubuntu"
 
 
+<<<<<<< HEAD
 - hosts: workstations
   become: true
   tasks:
@@ -36,6 +37,8 @@
       owner: root
       group: root
 
+=======
+>>>>>>> origin
 - hosts: web_servers
   become: true
   tasks:
